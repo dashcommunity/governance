@@ -1,7 +1,7 @@
 # Masternode Operator (MNO) Governance Question
 
 ### Summary
-* This proposal is a simple **governace question** (no scope of work proposed). 
+* This proposal is a simple **governance question** (no scope of work proposed). 
 * The question seeks community guidance from MNOs regarding **treasury scaling**.
 * I'm asking for **5 DASH** for fee reimbursement.
 
