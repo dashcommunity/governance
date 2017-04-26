@@ -1,12 +1,12 @@
-# Masternode Operator Governance Question
+# Masternode Operator (MNO) Governance Question
 
 ### Summary
 * This proposal is a simple **governace question** (no scope of work proposed). 
-* The question seeks community guidance from masternode operators regarding **treasury scaling**.
+* The question seeks community guidance from MNOs regarding **treasury scaling**.
 * I'm asking for **5 DASH** for fee reimbursement.
 
 ### Question
-Do masternode owners want to fund more cooperatives for treasury scaling?
+Do MNOs want to fund more cooperatives for treasury scaling?
 
 ### Possible Answers
 Later sections give context for the "problem" and "solution".
@@ -41,14 +41,14 @@ A decentrialized treasury would be:
 * robust & sustainable
 * conservative (safe) & progressive (innovative)
 
-Long-time Dash participants with reputations can organize various flavors of cooperatives. These co-ops would welcome new-comers and help them develop reputations in the community.  This lowers the barrier for compensated participation, increasing development of the Dash ecosystem with fresh, innovative approaches from new-comers under the guidance of experienced long-timers. These cooperatives would offer greater financial privacy to contractors compared to contracting with the treasury itself.  Privacy could also extend to management and development of the cooperative's services.
+Long-time Dash participants with reputations can organize various flavors of cooperatives. These co-ops would **welcome new-comers and help them develop reputations** in the community.  This lowers the barrier for compensated participation, increasing development of the Dash ecosystem with fresh, innovative approaches from new-comers under the guidance of experienced long-timers. These **cooperatives would offer greater financial privacy to contractors** compared to contracting with the treasury itself.  Privacy could also extend to management and development of the cooperative's services.
 
-A decentralized tresury would maximize accountability and minimize hierarchy.  Responsibility for deliverables would rest on several SPOCs (single points of contact), each co-op having one person responsible for communicating with the community.  Groups would be small enough to manage effectively, as opposed to one very large group and/or hundreds or thousands of independant contractors.
+A decentralized tresury would **maximize accountability and minimize hierarchy**.  Responsibility for deliverables would rest on several SPOCs (single points of contact), each co-op having one person responsible for communicating with the community.  Groups would be small enough to manage effectively, as opposed to one very large group and/or hundreds or thousands of independant contractors.
 
-Additionally, a decentralized treasury structure would generally increase quality and decrease cost over time, because some cooperatives would compete with others offering the same services.  Lastly, this structure would decrease the burden on MNOs and Dash contractors.  MNOs would have relatively fewer proposals to evaluate, and contractors would have a lower barrier to entry. 
+Additionally, **a decentralized treasury structure would generally increase quality and decrease cost over time**, because some cooperatives would compete with others offering the same services.  Lastly, this structure would **decrease the burden on MNOs and Dash contractors**.  MNOs would have relatively fewer proposals to evaluate, and contractors would have a lower barrier to entry. 
 
 ##### Further Justification
-Mastenode operators (MNOs) need to direct more funds (in fiat terms) as price increases.  The number of MNOs will level off, but price will likely not.  This puts each MNO in charge of more funds over time.
+MNOs need to direct more funds (in fiat terms) as price increases.  The number of MNOs will level off, but price will likely not.  This puts each MNO in charge of more funds over time.
 
 * If average proposal size remains steady, more proposals will need evaluating.
 * If number of proposals remains steady, the cost of each proposal must rise.  
@@ -59,4 +59,4 @@ Proposal fees (in fiat terms) are high.  This increases the financial risk for w
 
 If this trend continues we will continue to see centralizaton in treasury payouts, discouraging new-comers from contributing to Dash.  This will be detrimental to Dash's growth potential and price.  
 
-Masternode voting has declined over time, indicating voter burnout.  Masternode operators have indicated that they do not want to lower the proposal fees.
+Masternode voting has declined over time, indicating voter burnout.  MNOs have indicated that they do not want to lower the proposal fees.  Cooperatives are an alternate approach to maintaining a welcoming experience for new contractors, while not overwhelming MNOs.  Perhaps more importantly, cooperatives will lead to a healthier, more sustainable and scalable treasury.
