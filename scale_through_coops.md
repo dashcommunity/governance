@@ -11,15 +11,15 @@
 ### Possible Answers
 Later sections give context for the "problem" and "solution".
 
-##### Yes
+##### __Yes__
 * I see the problem;  I generally agree with the proposed solution
 * I want to encourage more teams (co-ops) to submit proposals
 
-##### No
+##### __No__
 * I see the problem, but I'm opposed to the proposed solution
 * I don't see the problem; nothing needs to be solved
 
-##### Abstain
+##### __Abstain__
 * I have considered the information, but I don't have an opinion
 * I am not strongly in favor or opposed
 * I don't like the way the question is phrased
