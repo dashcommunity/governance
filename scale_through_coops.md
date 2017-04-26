@@ -27,7 +27,7 @@ Later sections give context for the "problem" and "solution".
 ### Background & Motivation
 The treasury fund is large and growing.  Recent price and popularity increases have led to new growing pains.  There are questions about how the treasury can adapt to these scaling issues.
 
-There are several ways to accommodate scaling.  Some ways are healthier than others over the long term.  My opinion is that we should seek to **decentralize the treasury payouts**.  Previous forum discussions have made it clear that there are varying opinions about what decentralization *is*, and what *causes* it.  The following section describes my understanding of the matter.  I further explain my recommendation and justify the claim that it would be decentralizing.
+There are several ways to accommodate scaling.  Some ways are healthier than others over the long term.  My opinion is that we should seek to **decentralize the treasury payouts**.  Previous forum discussions have made it clear that there are varying opinions about what decentralization *is*, and what *causes* it.  The following section describes my understanding of the matter.  I further explain my recommendation and justify the claim that funding more teams (cooperatives) would help *decentralize* our treasury system.
 
 ### Recommendation & Justification
 Consider the following figure showing three types of networks:
