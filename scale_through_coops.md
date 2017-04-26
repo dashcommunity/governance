@@ -59,4 +59,4 @@ Proposal fees (in fiat terms) are high.  This increases the financial risk for w
 
 If this trend continues we will continue to see centralizaton in treasury payouts, discouraging new-comers from contributing to Dash.  This will be detrimental to Dash's growth potential and price.  
 
-Masternode voting has declined over time, indicating voter burnout.  MNOs have indicated that they do not want to lower the proposal fees.  Cooperatives are an alternate approach to maintaining a welcoming experience for new contractors, while not overwhelming MNOs.  Perhaps more importantly, cooperatives will lead to a healthier, more sustainable and scalable treasury.
+Masternode voting has declined over time, indicating voter burnout.  MNOs have indicated that they do not want to lower the proposal fees.  **Cooperatives are an alternate approach to maintaining a welcoming experience for new contractors, while not overwhelming MNOs.  Perhaps more importantly, cooperatives will lead to a healthier, more sustainable and scalable treasury.**
