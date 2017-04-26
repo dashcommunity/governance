@@ -6,7 +6,7 @@
 * I'm asking for **5 DASH** for fee reimbursement.
 
 ### Question
-Do MNOs want to fund more cooperatives for treasury scaling?
+*Do you want to fund more cooperatives for treasury scaling*?
 
 ### Possible Answers
 Later sections give context for the "problem" and "solution".
