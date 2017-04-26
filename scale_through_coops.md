@@ -2,7 +2,7 @@
 
 ### Summary
 * This proposal is a simple **governace question** (no scope of work proposed). 
-* The question seeks community guidance from masternode operators regarding **treasury scaling**.  Details in later sections.
+* The question seeks community guidance from masternode operators regarding **treasury scaling**.
 * I'm asking for **5 DASH** for fee reimbursement.
 
 ### Question
