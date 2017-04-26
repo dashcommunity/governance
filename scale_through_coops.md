@@ -1,35 +1,35 @@
-### Masternode Operator Governance Question
+# Masternode Operator Governance Question
 
-##### Summary
+### Summary
 * This proposal is a simple **governace question** (no scope of work proposed). 
 * The question seeks guidance regarding **treasury scaling**.  Details in later sections.
 * I'm asking for **5 DASH** for fee reimbursement.
 
-##### Question
+### Question
 Do masternode owners want to fund more cooperatives for treasury scaling?
 
-##### Possible Answers
+### Possible Answers
 Later sections give context for the "problem" and "solution".
 
-###### Yes
+##### Yes
 * I see the problem;  I generally agree with the proposed solution
 * I want to encourage more teams (co-ops) to submit proposals
 
-###### No
+##### No
 * I see the problem, but I'm opposed to the proposed solution
 * I don't see the problem; nothing needs to be solved
 
-###### Abstain
+##### Abstain
 * I have considered the information, but I don't have an opinion
 * I am not strongly in favor or opposed
 * I don't like the way the question is phrased
 
-##### Background & Motivation
+### Background & Motivation
 The treasury fund is large and growing.  Recent price and popularity increases have led to new growing pains.  There are questions about how the treasury can adapt to these scaling issues.
 
 There are several ways to accommodate scaling.  Some ways are healthier than others over the long term.  My opinion is that we should seek to **decentralize the treasury payouts**.  Previous forum discussions have made it clear that there are varying opinions about what decentralization *is*, and what *causes* it.  The following section describes my understanding of the matter.  I further explain my recommendation and justify the claim that it would be decentralizing.
 
-###### Recommendation & Justification
+### Recommendation & Justification
 Consider the following figure showing three types of networks:
 [Figure]
 
@@ -47,7 +47,7 @@ A decentralized tresury would maximize accountability and minimize hierarchy.  R
 
 Additionally, a decentralized treasury structure would generally increase quality and decrease cost over time, because some cooperatives would compete with others offering the same services.  Lastly, this structure would decrease the burden on MNOs and Dash contractors.  MNOs would have relatively fewer proposals to evaluate, and contractors would have a lower barrier to entry. 
 
-###### Further Justification
+##### Further Justification
 Mastenode operators (MNOs) need to direct more funds (in fiat terms) as price increases.  The number of MNOs will level off, but price will likely not.  This puts each MNO in charge of more funds over time.
 
 * If average proposal size remains steady, more proposals will need evaluating.
