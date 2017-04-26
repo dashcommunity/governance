@@ -47,7 +47,7 @@ A decentralized tresury would **maximize accountability and minimize hierarchy**
 
 Additionally, **a decentralized treasury structure would generally increase quality and decrease cost over time**, because some cooperatives would compete with others offering the same services.  Lastly, this structure would **decrease the burden on MNOs and Dash contractors**.  MNOs would have relatively fewer proposals to evaluate, and contractors would have a lower barrier to entry. 
 
-#### Further Justification
+##### Further Justification
 MNOs need to direct more funds (in fiat terms) as price increases.  The number of MNOs will level off, but price will likely not.  This puts each MNO in charge of more funds over time.
 
 * If average proposal size remains steady, more proposals will need evaluating.
