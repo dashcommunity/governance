@@ -33,9 +33,9 @@ There are several ways to accommodate scaling.  Some ways are healthier than oth
 Consider the following figure showing three types of networks:
 ![Networks](https://github.com/riongull/governance/blob/master/networks.jpeg "Dash treasury can be modelled as a network")
 
-The treasury can be modeled as a network, where dots are people receiving funds that originated from the treasury, and lines connecting dots are a transfer of treasury funds.  **Currently, our treasury most resembles the centralized model.  Moving right in the figure above would be a *decentralizing* effect**.  I'm proposing that we move in that direction by funding more groups of people who employ other people.  These organizations would be autonomous and voluntary, much like cooperatives.  Some might consider these to be similar to distributed autonomous organizations (DAOs).  **Funding cooperatives would yield the benefits of both centralizaed and ditributed networks**.  It's a healthy balance between the two.  
+The treasury can be modeled as a network, where dots are people receiving funds that originated from the treasury, and lines connecting dots are a transfer of treasury funds.  **Currently, our treasury most resembles the centralized model.  Moving right in the figure above would be a *decentralizing* effect**.  I'm proposing that we move in that direction by funding more groups of people who employ other people.  These organizations would be autonomous and voluntary, much like [cooperatives](https://en.wikipedia.org/wiki/Cooperative).  Some might consider these to be similar to distributed autonomous organizations (DAOs).  **Funding cooperatives would yield the benefits of both centralizaed and ditributed networks**.  It's a healthy balance between the two.  
 
-Decentrialized systems are:
+A decentrialized treasury would be:
 
 * simple & efficient
 * robust & sustainable
