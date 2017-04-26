@@ -53,10 +53,12 @@ MNOs need to direct more funds (in fiat terms) as price increases.  The number o
 * If average proposal size remains steady, more proposals will need evaluating.
 * If number of proposals remains steady, the cost of each proposal must rise.  
 
-Either way it looks like more work for MNOs.  One way to keep work load low is to entrust more and more funds to individuals who have established reputations.  This is a centralizing effect, and we've seen this play out.
+Either way it looks like more work for both MNOs (managing the treasury) and contractors (applying to the treasury).  One way to keep MNO work load low is to entrust more and more funds to individuals who have established reputations (at the expense of new-comers).  This is a centralizing effect, and we're seeing that play out.
 
 Proposal fees (in fiat terms) are high.  This increases the financial risk for would-be treasury contractors.  Because treasury funds are released before work is completed, MNOs are reluctant to give funds to new-comers with no reputation.  This too leads to MNOs entrusting funds to individuals who have established reputations, leading to centralization.  
 
 If this trend continues we will continue to see centralizaton in treasury payouts, discouraging new-comers from contributing to Dash.  This will be detrimental to Dash's growth potential and price.  
 
-Masternode voting has declined over time, indicating voter burnout.  MNOs have indicated that they do not want to lower the proposal fees.  **Cooperatives are an alternate approach to maintaining a welcoming experience for new contractors, while not overwhelming MNOs.  Perhaps more importantly, cooperatives will lead to a healthier, more sustainable and scalable treasury.**
+Masternode voting has declined over time, indicating voter burnout.  Low voter turnout is bad for contractors, regardless of proposal quality.  For a given response ratio (yes:no), the lower the voter turnout, the harder it is for a proposal to pass.  For example, if a proposal's responses are 1000y:500n, that proposal passes, but 500y:250n fails.  Hence, **low voter turnout is bad for Dash, *regardless of proposal quality***.  
+
+MNOs have indicated that they do not want to lower the proposal fees (which would have encouraged more new contractors).  **Funding more cooperatives/sub-DAOs are an alternate approach to maintaining a welcoming experience for new contractors, while not overwhelming MNOs.  Perhaps more importantly, cooperatives will lead to a healthier, more sustainable and scalable treasury.**
